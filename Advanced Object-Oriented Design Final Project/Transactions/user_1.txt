@@ -1,0 +1,3 @@
+Account Created for Conner with Account ID: 1
+Deposit of 123456 successful! New balance: 123456
+Withdraw of 123 successful! New balance: 123333

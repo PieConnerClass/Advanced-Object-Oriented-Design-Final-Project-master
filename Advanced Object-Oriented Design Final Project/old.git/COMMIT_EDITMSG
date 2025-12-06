@@ -1,0 +1,35 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .vscode/c_cpp_properties.json
+#	new file:   AccountSummaries/user_001.txt
+#	new file:   Advanced Object-Oriented Design Final Project.vcxproj
+#	new file:   Advanced Object-Oriented Design Final Project.vcxproj.filters
+#	new file:   BankAccount.cpp
+#	new file:   Header/BankAccount.h
+#	new file:   Header/Manager.h
+#	new file:   Header/Person.h
+#	new file:   Header/User.h
+#	new file:   Header/UserAccount.h
+#	new file:   Makefile
+#	new file:   Manager.cpp
+#	new file:   Managers.txt
+#	new file:   Person.cpp
+#	new file:   RCa08428
+#	new file:   Transactions/user_1.txt
+#	new file:   User.cpp
+#	new file:   UserAccount.cpp
+#	new file:   Users/ConnerP.txt
+#	new file:   Users/bryce.txt
+#	new file:   main.cpp
+#	new file:   main.exe
+#
+# Changes not staged for commit:
+#	modified:   Header/Manager.h
+#
